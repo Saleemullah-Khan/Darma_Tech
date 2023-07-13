@@ -1,0 +1,87 @@
+
+[
+    {
+        "id": 1,
+        "tittle": "17-cn0003dx",
+        "image": "https://m.media-amazon.com/images/I/71ZUFlO6wsL._AC_UY218_.jpg",
+        "description": "HP 17 HD+ Laptop, 2023 Newest Upgrade, Intel Core i3-1125G4 (Quad-core), 32GB RAM, 1TB SSD, Webcam, Wi-Fi, HDMI, USB-C, Fast Charge,Bluetooth, Windows 11, School and Business Ready, ROKC HDMI Cable",
+        "price": "$649.99"
+    },
+    {
+        "id": 2,
+        "tittle": "15.6 Inches",
+        "image": "https://m.media-amazon.com/images/I/71zVC5mNV+L._AC_SX425_.jpg",
+        "description": "HP 2023 Newest Upgraded Touch-Screen Laptops for College Student & Business, 15.6 inch HD Computer, Intel Core i3-1115G4(2-Core), 32GB RAM, 1TB SSD, Wi-Fi, HDMI, Webcam, Windows 11, ROKC HDMI Cable",
+        "price": "$539.99"
+    },
+    {
+        "id": 3,
+        "tittle": "i3 12th Gen 15-dy5599nr",
+        "image": "https://m.media-amazon.com/images/I/71jcs5zlkzL._AC_SX569_.jpg",
+        "description": "HP 15 inch Laptop, FHD Display, Intel Core i3-1215U, 8 GB RAM, 128 GB SSD, Intel UHD Graphics, Windows 11 Home in S Mode, 15-dy5599nr (2023)",
+        "price": "$309.75"
+    },
+    {
+        "id": 4,
+        "tittle": "Ideapad 3i",
+        "image": "https://m.media-amazon.com/images/I/61ZQGFMxi9L._AC_SX569_.jpg",
+        "description": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6 FHD Display - 8GB Memory - 512GB Storage - Windows 11 Pro",
+        "price": "$495.46"
+    },
+    {
+        "id": 5,
+        "tittle": "A115-32-C96U",
+        "image": "https://m.media-amazon.com/images/I/71wDgtnkHwL._AC_SL1500_.jpg",
+        "description": "Acer Aspire 1 A115-32-C96U Slim Laptop | 15.6 Full HD Display | Intel Celeron N4500 Processor | 4GB DDR4 | 128GB eMMC | WiFi 5 | Microsoft 365 Personal 1-Year Subscription | Windows 11 Home in S mode",
+        "price": "$229.99"
+    },
+    {
+        "id": 6,
+        "tittle": "HP Laptop 17-cn0025nr",
+        "image": "https://m.media-amazon.com/images/I/71Jsnu1EdrL._AC_SL1500_.jpg",
+        "description": "HP 17-inch Laptop, 11th Generation Intel Core i5-1135G7, Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (17-cn0025nr,Natural Silver)",
+        "price": "$576.99"
+    },
+    {
+        "id": 7,
+        "tittle": "Flex 5",
+        "image": "https://m.media-amazon.com/images/I/718cys6JGoL._AC_SL1500_.jpg",
+        "description": "Lenovo IdeaPad Flex 5-2023 - Touchscreen 2-in-1 Laptop - Windows 11 Home - 14 FHD Display - 16GB Memory - 512GB Storage - AMD Ryzen 5 5500U - Abyss Blue",
+        "price": "$592.73"
+    },
+    {
+        "id": 8,
+        "tittle": "A315-24P-R7VH",
+        "image": "https://m.media-amazon.com/images/I/71+1lOl1Y1L._AC_SL1500_.jpg",
+        "description": "Acer Aspire 3 A315-24P-R7VH Slim Laptop | 15.6 Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode",
+        "price": "$329.99"
+    },
+    {
+        "id": 9,
+        "tittle": "XPS 9720",
+        "image": "https://m.media-amazon.com/images/I/61JnE2TPyuL._AC_SL1251_.jpg",
+        "description": "Dell 2023 XPS 9720 17 UHD+ Touchscreen Laptop PC 12th Intel 14-Core i7-12700H NVIDIA RTX 3060 6GB GDDR6 64GB DDR5 2TB NVMe SSD WiFi 6E 4xThunderbolt4 Backlit KB Fingerprint Windows 11 Pro",
+        "price": "$3,016.85"
+    },
+    {
+        "id": 10,
+        "tittle": "Swift X",
+        "image": "https://m.media-amazon.com/images/I/71d5rAq4YaL._AC_SL1500_.jpg",
+        "description": "Acer Swift X SFX14-41G-R1S6 Creator Laptop | 14 Full HD 100% sRGB | AMD Ryzen 7 5800U | NVIDIA RTX 3050Ti GPU | 16GB LPDDR4X | 512GB SSD | Wi-Fi 6 | Backlit KB | Amazon Alexa | Windows 10 Home",
+        "price": "$898.63"
+    },
+    {
+        "id": 11,
+        "tittle": "AV15 51",
+        "image": "https://m.media-amazon.com/images/I/81XIwlF8sxL._AC_SL1500_.jpg",
+        "description": "Acer Aspire Vero AV15-51-7617 Green PC | 15.6 FHD IPS 100% sRGB-Display | 11th Gen Intel Core i7-1195G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB NVMe SSD | Wi-Fi 6 | PCR Materials | Vero-Sleeve",
+        "price": "$649.99"
+    },
+    {
+        "id": 12,
+        "tittle": "MacBook Pro",
+        "image": "https://m.media-amazon.com/images/I/61bX2AoGj2L._AC_SL1500_.jpg",
+        "description": "Apple 2022 MacBook Pro Laptop with M2 chip: 13-inch Retina Display, 8GB RAM, 512GB ​​​​​​​SSD ​​​​​​​Storage, Touch Bar, Backlit Keyboard, FaceTime HD Camera. Works with iPhone and iPad; Silver",
+        "price": "$1,143.12"
+    }
+]
